@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.input:input-motionprediction:1.0.0-alpha01@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e3af6cc3c76dd8350f2bbc7b9b7cbfcb/transformed/input-motionprediction-1.0.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3af6cc3c76dd8350f2bbc7b9b7cbfcb/transformed/input-motionprediction-1.0.0-alpha01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e3af6cc3c76dd8350f2bbc7b9b7cbfcb/transformed/input-motionprediction-1.0.0-alpha01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.input/input-motionprediction/1.0.0-alpha01/1f2a5bca48dba9078588d86461fb95543baec5a6/input-motionprediction-1.0.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

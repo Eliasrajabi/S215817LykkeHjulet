@@ -27,6 +27,7 @@ private val LightColorPalette = lightColors(
     */
 )
 
+
 @Composable
 fun S215817LykkeHjuletTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
